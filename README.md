@@ -52,7 +52,7 @@ python gui.py
    - 两者都替换：同时执行
 4. **点击「🔍 预览」**：先预览将被修改的文件，确认无误后点击「✅ 执行替换」
 
-![image](\image.png)
+![image](https://raw.githubusercontent.com/saber2-lang/office-batch-editor/main/image.png)
 
 ### 命令行
 
