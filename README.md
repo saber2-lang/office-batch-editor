@@ -52,7 +52,7 @@ python gui.py
    - 两者都替换：同时执行
 4. **点击「🔍 预览」**：先预览将被修改的文件，确认无误后点击「✅ 执行替换」
 
-![image](D:\project\claude_code\file-devtool\批量文档内容修改工具\image.png)
+![image](\image.png)
 
 ### 命令行
 
